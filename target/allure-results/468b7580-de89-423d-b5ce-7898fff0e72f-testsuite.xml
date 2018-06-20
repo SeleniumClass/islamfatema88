@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1528314504829" stop="1528314506862" version="1.4.15" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Free GCR Shop login feature</name>
+    <title>Free GCR Shop login feature</title>
+    <test-cases>
+        <test-case start="1528314505013" stop="1528314505015" status="passed">
+            <name>Given user is already on login page</name>
+            <title>Given user is already on login page</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="codeLover.local"/>
+                <label name="thread" value="39398@codeLover.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1528314505133" stop="1528314505133" status="passed">
+            <name>And title of login page is GCR Shop</name>
+            <title>And title of login page is GCR Shop</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="codeLover.local"/>
+                <label name="thread" value="39398@codeLover.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1528314505693" stop="1528314505693" status="passed">
+            <name>When user click on login button</name>
+            <title>When user click on login button</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="codeLover.local"/>
+                <label name="thread" value="39398@codeLover.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1528314505762" stop="1528314505762" status="passed">
+            <name>And user enter "sarowerny@gmail.com" into username text fields on home screen</name>
+            <title>And user enter "sarowerny@gmail.com" into username text fields on home screen</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="codeLover.local"/>
+                <label name="thread" value="39398@codeLover.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1528314505805" stop="1528314505805" status="passed">
+            <name>And user enter "student" into username password fields on home screen</name>
+            <title>And user enter "student" into username password fields on home screen</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="codeLover.local"/>
+                <label name="thread" value="39398@codeLover.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1528314506580" stop="1528314506580" status="passed">
+            <name>And user click on sign in button</name>
+            <title>And user click on sign in button</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="codeLover.local"/>
+                <label name="thread" value="39398@codeLover.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1528314506593" stop="1528314506593" status="passed">
+            <name>Then user is on home page</name>
+            <title>Then user is on home page</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="codeLover.local"/>
+                <label name="thread" value="39398@codeLover.local.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="story" value="Free GCR Shop login feature"/>
+        <label name="feature" value="Free GCR Shop login feature"/>
+        <label name="framework" value="CucumberJVM"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
